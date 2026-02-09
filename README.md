@@ -1,1 +1,0 @@
-This is Linear Algebra for data sceicne 
