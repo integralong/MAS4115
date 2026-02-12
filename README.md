@@ -2,16 +2,16 @@
 
 
 **4. Python3 Basics**
-[here](/python3_basics.ipynb)
+[here](/4_python3_basics.ipynb)
 
 **5. Functions Tuples and Unittests**
-[here](/functions_tuples_and_unittests.ipynb)
+[here](/5_functions_tuples_and_unittests.ipynb)
 
 **6. Advanced functions and lists**
-[here](/advanced_functions_and_lists.ipynb)
+[here](/6_advanced_functions_and_lists.ipynb)
 
 **7. Python Iteration**
-[here](/python_iteration.ipynb)
+[here](/7_python_iteration.ipynb)
 
 **8. Audio with Numpy**
 
@@ -20,7 +20,7 @@
 **10. Operations on Arrays**
 
 **11. Overview of ML and Image Data**
-[here](/overview_of_ML_and_image_data.ipynb)
+[here](/11_overview_of_ML_and_image_data.ipynb)
 
 
 
