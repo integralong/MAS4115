@@ -14,6 +14,7 @@
 [here](/7_python_iteration.ipynb)
 
 **8. Audio with Numpy**
+[here](/8_audio_with_numpy_unsolved.ipynb)
 
 **9. Plane Geometry and Randomness**
 
