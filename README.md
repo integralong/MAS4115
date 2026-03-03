@@ -23,7 +23,7 @@
 [here](/11_operations_on_arrays.ipynb)
 
 **12. Overview of ML and Image Data**
-[here](/11_overview_of_ML_and_image_data.ipynb)
+[here](/12_overview_of_ML_and_image_data.ipynb)
 
 **13. Images as Vectors**
 [here](/13_images_as_vectors.ipynb)
