@@ -16,15 +16,20 @@
 **8. Audio with Numpy**
 [here](/8_audio_with_numpy_unsolved.ipynb)
 
-**9. Plane Geometry and Randomness**
+**10. Plane Geometry and Randomness**
+[here](/10_plane_geometry_and_randomness.ipynb)
 
-**10. Operations on Arrays**
+**11. Operations on Arrays**
+[here](/11_operations_on_arrays.ipynb)
 
-**11. Overview of ML and Image Data**
+**12. Overview of ML and Image Data**
 [here](/11_overview_of_ML_and_image_data.ipynb)
 
+**13. Images as Vectors**
+[here](/13_images_as_vectors.ipynb)
 
-
+**14. Clustering Intro**
+[here](/14_clustering_intro.ipynb)
 
 #### Extra
 [extra-overwrite](/extra_overwrite.ipynb)
