@@ -31,5 +31,8 @@
 **14. Clustering Intro**
 [here](/14_clustering_intro.ipynb)
 
+**15. Dimensionality Reduction with t-SNE**
+[here](/15_dimensionality_reduction_with_tSNE.ipynb)
+
 #### Extra
 [extra-overwrite](/extra_overwrite.ipynb)
